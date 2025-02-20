@@ -4,8 +4,6 @@ import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
-  AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
@@ -63,6 +61,7 @@ function Home2() {
             <p>
               Feel free to <span className="purple">connect </span>with me
             </p>
+            <p>prakashveath@gmail.com</p>
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
