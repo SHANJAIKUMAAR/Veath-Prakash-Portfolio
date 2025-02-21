@@ -2,9 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
-import {
-  AiFillGithub,
-} from "react-icons/ai";
+import { AiFillGithub } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
 function Home2() {
@@ -17,11 +15,17 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            I fell in love with data and the insights it can unlock.Over time, I have learned to transform raw numbers into meaningful stories... 📊🔍
+              I fell in love with data and the insights it can unlock.Over time,
+              I have learned to transform raw numbers into meaningful stories...
+              📊🔍
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> SQL, Python, and R, with a strong command of libraries like Pandas, NumPy, and Matplotlib for data analysis and visualization. </b>
+                <b className="purple">
+                  {" "}
+                  SQL and Python with a strong command of libraries like Pandas,
+                  NumPy, and Matplotlib for data analysis and visualization.{" "}
+                </b>
               </i>
               <br />
               <br />
@@ -30,13 +34,13 @@ function Home2() {
                 <b className="purple">data analytics, machine learning,</b> and
                 also in areas related to{" "}
                 <b className="purple">
-                forecasting, helping businesses make data-driven decisions.
+                  forecasting, helping businesses make data-driven decisions.
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my skills to solve real-world problems 
-              using <b className="purple">Node.js</b> and
+              Whenever possible, I also apply my skills to solve real-world
+              problems using
               <i>
                 <b className="purple">
                   {" "}
@@ -45,7 +49,10 @@ function Home2() {
               </i>
               &nbsp; and
               <i>
-                <b className="purple"> reports that drive impactful decisions.</b>
+                <b className="purple">
+                  {" "}
+                  reports that drive impactful decisions.
+                </b>
               </i>
             </p>
           </Col>

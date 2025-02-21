@@ -33,6 +33,31 @@ function AboutCard() {
                 predictive modeling & forecasting
               </li>
             </ul>
+            <br />I am certified in:
+            <ul>
+              <li className="about-activity">
+                <ImPointRight /> Python for Data Science & Analysis with Python
+                – IBM (Jan 2025)
+              </li>
+              <li className="about-activity">
+                <ImPointRight /> Data Analytics Job Simulation – Deloitte (Jan
+                2025)
+              </li>
+              <li className="about-activity">
+                <ImPointRight /> Data Analytics Visualization Job stimulation –
+                Accenture (Feb2025)
+              </li>
+              <li className="about-activity">
+                <ImPointRight /> Advanced Excel (Pivot Tables, VBA Macros) – IT
+                Vedant (Jan 2025)
+              </li>
+              <li className="about-activity">
+                <ImPointRight /> SQL for Data Science – IT Vedant (Jan 2025)
+              </li>
+              <li className="about-activity">
+                <ImPointRight /> Power BI & Tableau – IT Vedant (Jan 2025)
+              </li>
+            </ul>
             <br />
             Apart from working with data, I enjoy:
           </p>
